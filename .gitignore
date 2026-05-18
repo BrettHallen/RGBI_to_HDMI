@@ -1,0 +1,7 @@
+.DS_Store
+RGBI-to-HDMI/\#auto_saved_files\#
+RGBI-to-HDMI/fp-info-cache
+/RGBI-to-HDMI/RGBI-to-HDMI-backups
+*.bak
+*.kicad_prl
+*.lck
