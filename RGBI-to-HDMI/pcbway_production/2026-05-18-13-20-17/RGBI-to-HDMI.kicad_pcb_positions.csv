@@ -1,0 +1,15 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+180.71,-81.97,90.0,top,C1,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+117.25,-92.13,0.0,top,C2,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,100nF,tht
+119.77,-109.95,-90.0,top,J1,RG9922-111D20-01B0,,RG9922111D2001B0,RG9922-111D20-01B0,tht
+155.31,-80.7,90.0,top,J2,,,PinHeader_1x09_P2.54mm_Vertical,From Computer,tht
+127.37,-92.13,90.0,top,R1,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,270Ω,tht
+131.18,-92.13,90.0,top,R2,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,270Ω,tht
+134.99,-92.13,90.0,top,R3,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,270Ω,tht
+138.8,-92.13,90.0,top,R4,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,270Ω,tht
+142.61,-92.13,90.0,top,R5,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,270Ω,tht
+146.42,-92.13,90.0,top,R6,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,270Ω,tht
+150.23,-92.13,90.0,top,R7,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,270Ω,tht
+154.04,-92.13,90.0,top,R8,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,270Ω,tht
+152.77,-105.89,-90.0,top,U1,,,RaspberryPi_Pico_Common_Unspecified,RaspberryPi Pico,tht
+180.71,-84.51,-90.0,top,U2,,,DIP-20_W7.62mm,SN74LVC245AN,tht
